@@ -48,3 +48,5 @@ Register view
 ![Register view](https://github.com/sDebski/ToDoApp/blob/master/images/register.png?raw=true)
 
 
+The app is based on tutorial [TODO App](https://www.youtube.com/watch?v=llbtoQTt4qw&t=101s).
+
