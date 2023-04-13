@@ -21,7 +21,7 @@ Create task view
 Update task view
 
 
-![Update task view](https://github.com/sDebski/ToDoApp/blob/master/images/update-task.png?raw=true)
+![Update task view](https://github.com/sDebski/ToDoApp/blob/master/images/task-update.png?raw=true)
 
 
 Task delete confirmation view
